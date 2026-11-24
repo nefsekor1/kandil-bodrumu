@@ -1,0 +1,22 @@
+# Bağımlılıklar ve Geçici Dosyalar
+node_modules/
+dist/
+*.log
+.gradle/
+build/
+android/app/build/
+android/build/
+android/.gradle/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Büyük binary dosyalar (GitHub Release bölümüne yüklendi)
+*.zip
+*.7z
+electron-build/dist/
+CIKTILAR*/Windows_EXE/
+CIKTILAR*/*.zip
+CIKTILAR*/*.exe
+KANDIL_BODRUMU_Setup.exe

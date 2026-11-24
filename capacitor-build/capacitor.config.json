@@ -1,0 +1,23 @@
+{
+  "appId": "com.agy.kandilbodrumu",
+  "appName": "KANDİL BODRUMU",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#050b08",
+    "buildOptions": {
+      "keystorePath": null,
+      "keystoreAlias": null
+    }
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#050b08",
+      "showSpinner": false
+    }
+  }
+}

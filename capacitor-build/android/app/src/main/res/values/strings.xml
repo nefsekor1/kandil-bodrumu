@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KANDİL BODRUMU</string>
+    <string name="title_activity_main">KANDİL BODRUMU</string>
+    <string name="package_name">com.agy.kandilbodrumu</string>
+    <string name="custom_url_scheme">com.agy.kandilbodrumu</string>
+</resources>
